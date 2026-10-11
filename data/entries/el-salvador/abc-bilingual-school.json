@@ -1,0 +1,45 @@
+{
+  "id": "abc-bilingual-school",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "education",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "ABC Bilingual School",
+  "type": "Private school",
+  "tags": [
+    "Bilingual"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "https://abcbilingualschool.edu.sv",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://abcbilingualschool.edu.sv"
+  ],
+  "lastChecked": ""
+}

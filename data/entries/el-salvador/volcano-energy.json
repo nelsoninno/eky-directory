@@ -1,0 +1,46 @@
+{
+  "id": "volcano-energy",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Volcano Energy",
+  "type": "Startup",
+  "tags": [
+    "Bitcoin",
+    "Climate"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Bitcoin mining.",
+    "es": "Minería de Bitcoin."
+  },
+  "website": "",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://startupblink.com/top-startups/el-salvador"
+  ],
+  "lastChecked": "2026-10-11"
+}

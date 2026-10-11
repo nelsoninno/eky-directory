@@ -1,0 +1,52 @@
+{
+  "id": "y-o-d-a",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Y.O.D.A.",
+  "type": "Startup",
+  "tags": [
+    "Adtech"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Marketplace for digital out-of-home advertising.",
+    "es": "Marketplace de publicidad digital exterior."
+  },
+  "website": "https://yodaooh.com/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": "San Salvador"
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "founders": [
+      "Ricardo Aguilar"
+    ],
+    "programs": [
+      "Impact Hub Alpha"
+    ]
+  },
+  "sources": [
+    "https://sansalvador.impacthub.net/ricardo-aguilar-y.o.d.a"
+  ],
+  "lastChecked": "2026-10-11"
+}

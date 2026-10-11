@@ -1,0 +1,54 @@
+{
+  "id": "abaco",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Ábaco",
+  "type": "Startup",
+  "tags": [
+    "Fintech"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Financial management, credit and liquidity tools for small businesses.",
+    "es": "Herramientas de gestión financiera, crédito y liquidez para pequeñas empresas."
+  },
+  "website": "https://abacocapital.co/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": "San Salvador"
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "founders": [
+      "Carlos Villalobos",
+      "Alejandro McCormack"
+    ],
+    "programs": [
+      "Impact Hub Alpha",
+      "Innogen Capital"
+    ]
+  },
+  "sources": [
+    "https://sansalvador.impacthub.net/carlos-villabos-abaco"
+  ],
+  "lastChecked": "2026-10-11"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "david-rodriguez",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "David Rodríguez",
+  "type": "Person",
+  "tags": [],
+  "role": "CEO, OptiPixel Group",
+  "ventures": [
+    "OptiPixel Group"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/david-ernesto-rodriguez-salda%C3%B1a-203a2a25/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/david-rodríguez-optipixel"
+  ],
+  "lastChecked": "2026-10-11"
+}

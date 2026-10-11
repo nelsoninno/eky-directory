@@ -1,0 +1,433 @@
+{
+  "_note": "Category definitions. 'slug' values become URLs and must never change once published. 'sheetTab' is the tab name in the Google Sheet.",
+  "categories": [
+    {
+      "key": "tourism",
+      "sheetTab": "Tourism",
+      "kind": "organization",
+      "slug": {
+        "en": "tourism",
+        "es": "turismo"
+      },
+      "name": {
+        "en": "Tourism",
+        "es": "Turismo"
+      },
+      "title": {
+        "en": "Tourism businesses in El Salvador",
+        "es": "Negocios de turismo en El Salvador"
+      },
+      "intro": {
+        "en": "Hotels, villas, surf schools, tour operators, retreats and experiences in El Salvador, with location, languages and official links.",
+        "es": "Hoteles, villas, escuelas de surf, tour operadores, retiros y experiencias en El Salvador, con ubicación, idiomas y enlaces oficiales."
+      },
+      "map": true
+    },
+    {
+      "key": "restaurants",
+      "sheetTab": "Restaurants",
+      "kind": "organization",
+      "slug": {
+        "en": "restaurants",
+        "es": "restaurantes"
+      },
+      "name": {
+        "en": "Restaurants",
+        "es": "Restaurantes"
+      },
+      "title": {
+        "en": "Restaurants in El Salvador",
+        "es": "Restaurantes en El Salvador"
+      },
+      "intro": {
+        "en": "Restaurants, cafés, breweries and bars in El Salvador, by cuisine, price range and location.",
+        "es": "Restaurantes, cafés, cervecerías y bares en El Salvador, por tipo de comida, rango de precio y ubicación."
+      },
+      "map": true
+    },
+    {
+      "key": "construction",
+      "sheetTab": "Construction",
+      "kind": "organization",
+      "slug": {
+        "en": "construction",
+        "es": "construccion"
+      },
+      "name": {
+        "en": "Construction",
+        "es": "Construcción"
+      },
+      "title": {
+        "en": "Construction companies in El Salvador",
+        "es": "Empresas de construcción en El Salvador"
+      },
+      "intro": {
+        "en": "Contractors, architects, engineering firms and building suppliers in El Salvador, with services and areas served.",
+        "es": "Constructoras, arquitectos, ingenierías y proveedores de construcción en El Salvador, con servicios y zonas que atienden."
+      },
+      "map": true
+    },
+    {
+      "key": "real-estate",
+      "sheetTab": "Real estate",
+      "kind": "organization",
+      "slug": {
+        "en": "real-estate",
+        "es": "bienes-raices"
+      },
+      "name": {
+        "en": "Real estate",
+        "es": "Bienes raíces"
+      },
+      "title": {
+        "en": "Real estate companies in El Salvador",
+        "es": "Empresas de bienes raíces en El Salvador"
+      },
+      "intro": {
+        "en": "Real estate agencies, developers and property managers in El Salvador, including who helps foreign and diaspora buyers.",
+        "es": "Agencias inmobiliarias, desarrolladoras y administradoras de propiedades en El Salvador, incluyendo quién atiende a compradores extranjeros y de la diáspora."
+      },
+      "map": true
+    },
+    {
+      "key": "education",
+      "sheetTab": "Education",
+      "kind": "organization",
+      "slug": {
+        "en": "education",
+        "es": "educacion"
+      },
+      "name": {
+        "en": "Education",
+        "es": "Educación"
+      },
+      "title": {
+        "en": "Schools and universities in El Salvador",
+        "es": "Colegios y universidades en El Salvador"
+      },
+      "intro": {
+        "en": "Universities, schools and institutes in El Salvador, with levels, curriculum, languages and campus locations.",
+        "es": "Universidades, colegios e institutos en El Salvador, con niveles, currículo, idiomas y ubicación de sus campus."
+      },
+      "map": true
+    },
+    {
+      "key": "startups",
+      "sheetTab": "Startups",
+      "kind": "organization",
+      "group": "startups-entrepreneurs",
+      "slug": {
+        "en": "startups-and-entrepreneurs",
+        "es": "startups-y-emprendedores"
+      },
+      "name": {
+        "en": "Startups and entrepreneurs",
+        "es": "Startups y emprendedores"
+      },
+      "title": {
+        "en": "Startups and entrepreneurs in El Salvador",
+        "es": "Startups y emprendedores en El Salvador"
+      },
+      "intro": {
+        "en": "Salvadoran startups and the people who build them, with sector, founders, websites and LinkedIn profiles from public sources.",
+        "es": "Startups salvadoreñas y las personas que las construyen, con sector, fundadores, sitios web y perfiles de LinkedIn de fuentes públicas."
+      },
+      "map": false
+    },
+    {
+      "key": "entrepreneurs",
+      "sheetTab": "Entrepreneurs",
+      "kind": "person",
+      "group": "startups-entrepreneurs",
+      "listedUnder": "startups"
+    },
+    {
+      "key": "influencers",
+      "sheetTab": "Influencers",
+      "kind": "person",
+      "slug": {
+        "en": "creators-and-influencers",
+        "es": "creadores-e-influencers"
+      },
+      "name": {
+        "en": "Creators and influencers",
+        "es": "Creadores e influencers"
+      },
+      "title": {
+        "en": "Creators and influencers in El Salvador",
+        "es": "Creadores e influencers en El Salvador"
+      },
+      "intro": {
+        "en": "Salvadoran content creators by niche and platform, with their public profiles.",
+        "es": "Creadores de contenido salvadoreños por tema y plataforma, con sus perfiles públicos."
+      },
+      "map": false
+    },
+    {
+      "key": "nearshoring",
+      "sheetTab": "Nearshoring & BPO",
+      "kind": "organization",
+      "slug": {
+        "en": "nearshoring-and-bpo",
+        "es": "nearshoring-y-bpo"
+      },
+      "name": {
+        "en": "Nearshoring and BPO",
+        "es": "Nearshoring y BPO"
+      },
+      "title": {
+        "en": "Nearshoring and BPO companies in El Salvador",
+        "es": "Empresas de nearshoring y BPO en El Salvador"
+      },
+      "intro": {
+        "en": "Contact centers, outsourcing, software and virtual assistant companies in El Salvador serving the United States, Canada and the region.",
+        "es": "Contact centers, outsourcing, software y asistentes virtuales en El Salvador que atienden a Estados Unidos, Canadá y la región."
+      },
+      "map": true
+    },
+    {
+      "key": "food-beverage",
+      "sheetTab": "Food & beverage",
+      "kind": "organization",
+      "slug": {
+        "en": "food-and-beverage-producers",
+        "es": "productores-de-alimentos-y-bebidas"
+      },
+      "name": {
+        "en": "Food and beverage producers",
+        "es": "Productores de alimentos y bebidas"
+      },
+      "title": {
+        "en": "Food and beverage producers in El Salvador",
+        "es": "Productores de alimentos y bebidas en El Salvador"
+      },
+      "intro": {
+        "en": "Coffee, cacao, meat, dairy, beverage and packaged food producers in El Salvador, including exporters.",
+        "es": "Productores de café, cacao, carne, lácteos, bebidas y alimentos en El Salvador, incluyendo exportadores."
+      },
+      "map": true
+    }
+  ],
+  "types": {
+    "Hotel": {
+      "schema": "Hotel",
+      "es": "Hotel"
+    },
+    "Boutique hotel": {
+      "schema": "Hotel",
+      "es": "Hotel boutique"
+    },
+    "Hostel": {
+      "schema": "Hostel",
+      "es": "Hostal"
+    },
+    "Villa or vacation rental": {
+      "schema": "VacationRental",
+      "es": "Villa o casa vacacional"
+    },
+    "Resort": {
+      "schema": "Resort",
+      "es": "Resort"
+    },
+    "Eco-lodge": {
+      "schema": "LodgingBusiness",
+      "es": "Eco-lodge"
+    },
+    "Tour operator": {
+      "schema": "TravelAgency",
+      "es": "Tour operador"
+    },
+    "Surf school or camp": {
+      "schema": "SportsActivityLocation",
+      "es": "Escuela o campamento de surf"
+    },
+    "Experience or activity": {
+      "schema": "TouristAttraction",
+      "es": "Experiencia o actividad"
+    },
+    "Attraction": {
+      "schema": "TouristAttraction",
+      "es": "Atractivo turístico"
+    },
+    "Retreat or wellness": {
+      "schema": "LodgingBusiness",
+      "es": "Retiro o bienestar"
+    },
+    "Event venue": {
+      "schema": "EventVenue",
+      "es": "Lugar para eventos"
+    },
+    "Tourist transport": {
+      "schema": "TravelAgency",
+      "es": "Transporte turístico"
+    },
+    "Restaurant": {
+      "schema": "Restaurant",
+      "es": "Restaurante"
+    },
+    "Café": {
+      "schema": "CafeOrCoffeeShop",
+      "es": "Café"
+    },
+    "Bar": {
+      "schema": "BarOrPub",
+      "es": "Bar"
+    },
+    "Brewery": {
+      "schema": "Brewery",
+      "es": "Cervecería"
+    },
+    "Pupusería": {
+      "schema": "Restaurant",
+      "es": "Pupusería"
+    },
+    "Bakery": {
+      "schema": "Bakery",
+      "es": "Panadería"
+    },
+    "Food truck": {
+      "schema": "FoodEstablishment",
+      "es": "Food truck"
+    },
+    "Beach club": {
+      "schema": "BarOrPub",
+      "es": "Club de playa"
+    },
+    "General contractor": {
+      "schema": "GeneralContractor",
+      "es": "Constructora"
+    },
+    "Architecture firm": {
+      "schema": "ProfessionalService",
+      "es": "Firma de arquitectura"
+    },
+    "Engineering firm": {
+      "schema": "ProfessionalService",
+      "es": "Firma de ingeniería"
+    },
+    "Materials supplier": {
+      "schema": "HomeAndConstructionBusiness",
+      "es": "Proveedor de materiales"
+    },
+    "Specialized contractor": {
+      "schema": "HomeAndConstructionBusiness",
+      "es": "Contratista especializado"
+    },
+    "Interior design": {
+      "schema": "HomeAndConstructionBusiness",
+      "es": "Diseño de interiores"
+    },
+    "Developer": {
+      "schema": "Organization",
+      "es": "Desarrolladora"
+    },
+    "Real estate agency": {
+      "schema": "RealEstateAgent",
+      "es": "Agencia inmobiliaria"
+    },
+    "Property manager": {
+      "schema": "RealEstateAgent",
+      "es": "Administradora de propiedades"
+    },
+    "Independent broker": {
+      "schema": "RealEstateAgent",
+      "es": "Corredor independiente"
+    },
+    "University": {
+      "schema": "CollegeOrUniversity",
+      "es": "Universidad"
+    },
+    "Technical institute": {
+      "schema": "CollegeOrUniversity",
+      "es": "Instituto técnico"
+    },
+    "Private school": {
+      "schema": "School",
+      "es": "Colegio privado"
+    },
+    "Public school": {
+      "schema": "School",
+      "es": "Escuela pública"
+    },
+    "International school": {
+      "schema": "School",
+      "es": "Colegio internacional"
+    },
+    "Preschool": {
+      "schema": "Preschool",
+      "es": "Preescolar"
+    },
+    "Language school": {
+      "schema": "EducationalOrganization",
+      "es": "Escuela de idiomas"
+    },
+    "Online academy": {
+      "schema": "EducationalOrganization",
+      "es": "Academia en línea"
+    },
+    "Contact center": {
+      "schema": "ProfessionalService",
+      "es": "Contact center"
+    },
+    "BPO": {
+      "schema": "ProfessionalService",
+      "es": "BPO"
+    },
+    "Software or IT outsourcing": {
+      "schema": "ProfessionalService",
+      "es": "Outsourcing de software o TI"
+    },
+    "Virtual assistants": {
+      "schema": "ProfessionalService",
+      "es": "Asistentes virtuales"
+    },
+    "Knowledge process outsourcing": {
+      "schema": "ProfessionalService",
+      "es": "Outsourcing de procesos de conocimiento"
+    },
+    "Coffee producer": {
+      "schema": "Organization",
+      "es": "Productor de café"
+    },
+    "Cacao producer": {
+      "schema": "Organization",
+      "es": "Productor de cacao"
+    },
+    "Meat producer": {
+      "schema": "Organization",
+      "es": "Productor de carne"
+    },
+    "Dairy": {
+      "schema": "Organization",
+      "es": "Lácteos"
+    },
+    "Brewery or distillery": {
+      "schema": "Brewery",
+      "es": "Cervecería o destilería"
+    },
+    "Beverage maker": {
+      "schema": "Organization",
+      "es": "Fabricante de bebidas"
+    },
+    "Packaged foods": {
+      "schema": "Organization",
+      "es": "Alimentos empacados"
+    },
+    "Fresh produce": {
+      "schema": "Organization",
+      "es": "Productos frescos"
+    },
+    "Food manufacturer": {
+      "schema": "Organization",
+      "es": "Fabricante de alimentos"
+    },
+    "Startup": {
+      "schema": "Organization",
+      "es": "Startup"
+    },
+    "Person": {
+      "schema": "Person",
+      "es": "Persona"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ditobanx",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "DitoBanx",
+  "type": "Startup",
+  "tags": [
+    "Fintech",
+    "Bitcoin"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Bitcoin and digital asset wallets, point of sale, cards and custody.",
+    "es": "Billeteras de Bitcoin y activos digitales, punto de venta, tarjetas y custodia."
+  },
+  "website": "https://ditobanx.com/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://www.descubre.vc/ditobanx"
+  ],
+  "lastChecked": "2026-10-11"
+}

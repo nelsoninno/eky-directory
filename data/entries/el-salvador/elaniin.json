@@ -1,0 +1,49 @@
+{
+  "id": "elaniin",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Elaniin",
+  "type": "Startup",
+  "tags": [
+    "Software services"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Software development and digital agency.",
+    "es": "Agencia digital y de desarrollo de software."
+  },
+  "website": "https://www.elaniin.com/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "https://www.linkedin.com/company/elaniin",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": "San Salvador"
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "founders": [
+      "Adrian Gómez"
+    ]
+  },
+  "sources": [
+    "https://sansalvador.impacthub.net/adrian-gomez-elaniin"
+  ],
+  "lastChecked": "2026-10-11"
+}

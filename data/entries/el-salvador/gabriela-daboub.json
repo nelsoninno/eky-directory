@@ -1,0 +1,43 @@
+{
+  "id": "gabriela-daboub",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Gabriela Daboub",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Co-founder & CEO, Jobbi",
+  "ventures": [
+    "Jobbi"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/gabriela-daboub-5a1264214/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/gabriela-daboub-jobbi"
+  ],
+  "lastChecked": "2026-10-11"
+}

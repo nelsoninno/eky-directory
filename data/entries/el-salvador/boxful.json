@@ -1,0 +1,54 @@
+{
+  "id": "boxful",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Boxful",
+  "type": "Startup",
+  "tags": [
+    "Logistics",
+    "E-commerce"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Shipping software and smart lockers for online sellers and small businesses.",
+    "es": "Software de envíos y casilleros inteligentes para vendedores en línea y pequeños negocios."
+  },
+  "website": "https://goboxful.com/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "https://www.linkedin.com/company/boxful-latam/",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": "San Salvador"
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "founders": [
+      "Salvador Ramírez"
+    ],
+    "programs": [
+      "Impact Hub Alpha",
+      "Innogen Capital"
+    ]
+  },
+  "sources": [
+    "https://sansalvador.impacthub.net/salvador-ramirez-boxful"
+  ],
+  "lastChecked": "2026-10-11"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "salvador-ramirez",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Salvador Ramírez",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Co-Founder & CEO, Boxful",
+  "ventures": [
+    "Boxful"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/salvador-ramirez/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/salvador-ramirez-boxful"
+  ],
+  "lastChecked": "2026-10-11"
+}

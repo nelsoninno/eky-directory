@@ -1,0 +1,46 @@
+{
+  "id": "marcela-lemus-walsh",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Marcela Lemus Walsh",
+  "type": "Person",
+  "tags": [
+    "Founder",
+    "Marketing"
+  ],
+  "role": "Co-founder & CEO, EverybodyKnowsYou",
+  "ventures": [
+    "EverybodyKnowsYou",
+    "Lems",
+    "marea"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://everybodyknowsyou.com"
+  ],
+  "lastChecked": ""
+}

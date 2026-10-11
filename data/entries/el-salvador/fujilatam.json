@@ -1,0 +1,45 @@
+{
+  "id": "fujilatam",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "construction",
+  "status": "To review",
+  "ekyClient": true,
+  "name": "FujiLatam",
+  "type": "Specialized contractor",
+  "tags": [
+    "Elevators"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "https://fujielevatorlatam.com/es/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://fujielevatorlatam.com/es/"
+  ],
+  "lastChecked": ""
+}

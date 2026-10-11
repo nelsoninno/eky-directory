@@ -1,0 +1,52 @@
+{
+  "id": "cubo",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Cubo",
+  "type": "Startup",
+  "tags": [
+    "Fintech"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "App and smart point of sale for small merchant payments.",
+    "es": "App y punto de venta inteligente para pagos en pequeños comercios."
+  },
+  "website": "https://www.cubopago.com/SV",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "founders": [
+      "Gabriel Gutiérrez"
+    ],
+    "programs": [
+      "Innogen Capital (Delta Fund I)"
+    ]
+  },
+  "sources": [
+    "https://innogencapital.com/es/startup/cubo/"
+  ],
+  "lastChecked": "2026-10-11"
+}

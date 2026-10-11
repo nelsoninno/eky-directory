@@ -1,0 +1,41 @@
+{
+  "id": "eduardo-frances",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Eduardo Francés",
+  "type": "Person",
+  "tags": [],
+  "role": "COO, Propi",
+  "ventures": [
+    "Propi"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/eduardo-franc%C3%A9s-argueta/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/jose-avila-propi"
+  ],
+  "lastChecked": "2026-10-11"
+}

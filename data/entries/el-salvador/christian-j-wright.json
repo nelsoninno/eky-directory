@@ -1,0 +1,41 @@
+{
+  "id": "christian-j-wright",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Christian J. Wright",
+  "type": "Person",
+  "tags": [],
+  "role": "CEO, Weris App",
+  "ventures": [
+    "Weris App"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/christian-j-wright-52a41a18a/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/christian-wright-weris"
+  ],
+  "lastChecked": "2026-10-11"
+}

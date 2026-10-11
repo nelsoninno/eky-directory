@@ -1,0 +1,46 @@
+{
+  "id": "fiado-app",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Fiado App",
+  "type": "Startup",
+  "tags": [
+    "Fintech",
+    "AI"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Consumer lending using AI and alternative data.",
+    "es": "Crédito de consumo con IA y datos alternativos."
+  },
+  "website": "https://fiadoapp.com",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://www.vcbacked.co/directory/cities/el-salvador/san-salvador"
+  ],
+  "lastChecked": "2026-10-11"
+}

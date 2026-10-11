@@ -1,0 +1,43 @@
+{
+  "id": "2m-group",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "nearshoring",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "2M Group",
+  "type": "Contact center",
+  "tags": [
+    "Customer service"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [],
+  "lastChecked": ""
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ricardo-cuellar",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Ricardo Cuéllar",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Co-Founder & CFO, n1co",
+  "ventures": [
+    "n1co"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/ricardo-cuellar-98b72a97",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/ricardo-cuellar-n1co"
+  ],
+  "lastChecked": "2026-10-11"
+}

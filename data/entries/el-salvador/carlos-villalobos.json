@@ -1,0 +1,43 @@
+{
+  "id": "carlos-villalobos",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Carlos Villalobos",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Co-founder and CEO, Ábaco",
+  "ventures": [
+    "Ábaco"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/villalobosc/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/carlos-villabos-abaco"
+  ],
+  "lastChecked": "2026-10-11"
+}

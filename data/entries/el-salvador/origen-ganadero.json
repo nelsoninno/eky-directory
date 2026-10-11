@@ -1,0 +1,45 @@
+{
+  "id": "origen-ganadero",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "food-beverage",
+  "status": "To review",
+  "ekyClient": true,
+  "name": "Origen Ganadero",
+  "type": "Meat producer",
+  "tags": [
+    "Beef"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "https://origenganadero.com",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://origenganadero.com"
+  ],
+  "lastChecked": ""
+}

@@ -1,0 +1,46 @@
+{
+  "id": "nexbridge-digital-financial-solutions",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "NexBridge Digital Financial Solutions",
+  "type": "Startup",
+  "tags": [
+    "Fintech",
+    "Tokenization"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Tokenized financial assets, including tokenized US Treasury bills.",
+    "es": "Activos financieros tokenizados, incluidos bonos del Tesoro de EE. UU. tokenizados."
+  },
+  "website": "",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://startupblink.com/top-startups/el-salvador"
+  ],
+  "lastChecked": "2026-10-11"
+}

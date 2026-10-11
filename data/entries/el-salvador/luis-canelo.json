@@ -1,0 +1,43 @@
+{
+  "id": "luis-canelo",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Luis Canelo",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Founder & CEO, Salus",
+  "ventures": [
+    "Salus"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/luiscanelo",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/luis-canelo-salus"
+  ],
+  "lastChecked": "2026-10-11"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "alex-rozgo",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Alex Rozgo",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Co-Founder and Technical Advisor, Vertex Studio",
+  "ventures": [
+    "Vertex Studio"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/rozgo/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/alex-rozgo-vertex"
+  ],
+  "lastChecked": "2026-10-11"
+}

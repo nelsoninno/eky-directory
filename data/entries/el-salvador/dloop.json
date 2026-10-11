@@ -1,0 +1,54 @@
+{
+  "id": "dloop",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Dloop",
+  "type": "Startup",
+  "tags": [
+    "Foodtech",
+    "Climate"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "App that sells surplus food from businesses to cut food waste.",
+    "es": "App que vende excedentes de comida de negocios para reducir el desperdicio."
+  },
+  "website": "https://dloopapp.com/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "https://www.linkedin.com/company/dloop-app/",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": "San Salvador"
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "founders": [
+      "Juan Francisco Rivas",
+      "María Gabriela Rivas"
+    ],
+    "programs": [
+      "Impact Hub Alpha"
+    ]
+  },
+  "sources": [
+    "https://sansalvador.impacthub.net/juan-rivas-dloop"
+  ],
+  "lastChecked": "2026-10-11"
+}

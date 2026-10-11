@@ -1,0 +1,41 @@
+{
+  "id": "ricardo-aguilar",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Ricardo Aguilar",
+  "type": "Person",
+  "tags": [],
+  "role": "Head of Growth, Y.O.D.A.",
+  "ventures": [
+    "Y.O.D.A."
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/ricardojaguilare/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/ricardo-aguilar-y.o.d.a"
+  ],
+  "lastChecked": "2026-10-11"
+}

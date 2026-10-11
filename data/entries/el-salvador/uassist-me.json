@@ -1,0 +1,53 @@
+{
+  "id": "uassist-me",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "nearshoring",
+  "status": "To review",
+  "ekyClient": true,
+  "name": "Uassist.ME",
+  "type": "Virtual assistants",
+  "tags": [
+    "Virtual assistants",
+    "Bilingual",
+    "US market",
+    "Canada market"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "https://uassistme.com",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "marketsServed": [
+      "United States",
+      "Canada"
+    ]
+  },
+  "sources": [
+    "https://uassistme.com"
+  ],
+  "lastChecked": ""
+}

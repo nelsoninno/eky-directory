@@ -1,0 +1,46 @@
+{
+  "id": "surfing-esa",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "tourism",
+  "status": "To review",
+  "ekyClient": true,
+  "name": "Surfing ESA",
+  "type": "Surf school or camp",
+  "tags": [
+    "Surf",
+    "Beach"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "https://surfingesa.com",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "La Libertad",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://surfingesa.com"
+  ],
+  "lastChecked": ""
+}

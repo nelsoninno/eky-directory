@@ -1,0 +1,46 @@
+{
+  "id": "waveswell-retreats",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "tourism",
+  "status": "To review",
+  "ekyClient": true,
+  "name": "Waveswell Retreats",
+  "type": "Retreat or wellness",
+  "tags": [
+    "Surf",
+    "Wellness and yoga"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "https://waveswellretreats.com",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://waveswellretreats.com"
+  ],
+  "lastChecked": ""
+}

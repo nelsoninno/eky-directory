@@ -1,0 +1,45 @@
+{
+  "id": "universal-token",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Universal Token",
+  "type": "Startup",
+  "tags": [
+    "Tokenization"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Real-world asset tokenization.",
+    "es": "Tokenización de activos reales."
+  },
+  "website": "https://universaltoken.com",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://www.vcbacked.co/directory/cities/el-salvador/san-salvador"
+  ],
+  "lastChecked": "2026-10-11"
+}

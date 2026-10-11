@@ -1,0 +1,98 @@
+{
+  "_source": "JSON-LD on https://www.actonacademyelsalvador.com (EKY client site, repo nelsoninno/actonacademyelsalvador), read 2026-10-11",
+  "override": {
+    "description": {
+      "en": "US-accredited Montessori preschool and K-12 school in Antiguo Cuscatlán, where learners from 14 months to graduation set goals, master academics before advancing and build real businesses.",
+      "es": "Colegio Montessori y K-12 con acreditación de Estados Unidos en Antiguo Cuscatlán, donde los estudiantes desde los 14 meses hasta graduarse se fijan metas, dominan cada tema antes de avanzar y crean negocios reales."
+    },
+    "website": "https://www.actonacademyelsalvador.com/",
+    "location": {
+      "department": "La Libertad",
+      "municipality": "La Libertad Este",
+      "district": "Antiguo Cuscatlán",
+      "address": "Avenida Teotl, Casa #7, Antiguo Cuscatlán",
+      "city": "Antiguo Cuscatlán"
+    },
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "acceptsBitcoin": true,
+    "tags": [
+      "Preschool",
+      "Primary",
+      "Secondary",
+      "Bilingual",
+      "Montessori",
+      "American curriculum"
+    ],
+    "extra": {
+      "publicPrivate": "Private",
+      "curriculum": "US accredited (IALDS), Acton Academy model",
+      "accreditation": "IALDS accreditation (United States)",
+      "foundingYear": "2019",
+      "priceRange": "$$$"
+    },
+    "lastChecked": "2026-10-11"
+  },
+  "about": {
+    "en": "Acton Academy El Salvador is part of the Acton Academy Network. Learners set their own goals, master academics at 100 percent before advancing, take part in daily Socratic discussions, build real businesses and complete paid apprenticeships before they graduate. The school is led by director Shannon Falkenstein, a certified Montessori guide.",
+    "es": "Acton Academy El Salvador es parte de la red Acton Academy. Los estudiantes fijan sus propias metas, dominan cada tema al 100 por ciento antes de avanzar, participan en discusiones socráticas diarias, crean negocios reales y hacen pasantías pagadas antes de graduarse. La directora es Shannon Falkenstein, guía Montessori certificada."
+  },
+  "services": {
+    "en": [
+      "Montessori preschool from 14 months",
+      "K-12 learner-driven program",
+      "Daily Socratic discussions",
+      "Entrepreneurship and paid apprenticeships"
+    ],
+    "es": [
+      "Preescolar Montessori desde los 14 meses",
+      "Programa K-12 centrado en el estudiante",
+      "Discusiones socráticas diarias",
+      "Emprendimiento y pasantías pagadas"
+    ]
+  },
+  "facts": {
+    "en": [
+      [
+        "Founded",
+        "2019"
+      ],
+      [
+        "Ages",
+        "14 months to graduation"
+      ],
+      [
+        "Schedule",
+        "Monday to Friday"
+      ],
+      [
+        "Payment",
+        "Bank transfer, credit card, Bitcoin"
+      ]
+    ],
+    "es": [
+      [
+        "Fundado",
+        "2019"
+      ],
+      [
+        "Edades",
+        "14 meses hasta graduación"
+      ],
+      [
+        "Horario",
+        "Lunes a viernes"
+      ],
+      [
+        "Pago",
+        "Transferencia, tarjeta de crédito, Bitcoin"
+      ]
+    ]
+  },
+  "faq": {
+    "en": [],
+    "es": []
+  }
+}

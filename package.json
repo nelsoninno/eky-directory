@@ -1,0 +1,12 @@
+{
+  "name": "eky-directory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EKY Directory: businesses, schools, startups and people, readable by people and AI. directory.everybodyknowsyou.com",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:preview": "node scripts/build.mjs --preview",
+    "dev": "npx wrangler pages dev dist"
+  }
+}

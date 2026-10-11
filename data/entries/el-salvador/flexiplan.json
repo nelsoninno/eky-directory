@@ -1,0 +1,52 @@
+{
+  "id": "flexiplan",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Flexiplan",
+  "type": "Startup",
+  "tags": [
+    "Fintech"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Credit for people without access to banks.",
+    "es": "Crédito para personas sin acceso a la banca."
+  },
+  "website": "https://www.flexiplanregional.com/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "https://www.linkedin.com/company/flexiplanregional/",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": "San Salvador"
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "founders": [
+      "Tito Gutiérrez"
+    ],
+    "programs": [
+      "Impact Hub Alpha"
+    ]
+  },
+  "sources": [
+    "https://sansalvador.impacthub.net/tito-gutierrez-flexiplan"
+  ],
+  "lastChecked": "2026-10-11"
+}

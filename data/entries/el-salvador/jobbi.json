@@ -1,0 +1,52 @@
+{
+  "id": "jobbi",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Jobbi",
+  "type": "Startup",
+  "tags": [
+    "HR tech"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Marketplace of vetted Latin American freelancers, with contractor payroll.",
+    "es": "Marketplace de freelancers latinoamericanos verificados, con pago de planilla a contratistas."
+  },
+  "website": "https://jobbi.me/en/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "https://www.linkedin.com/company/jobbi-me",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": "San Salvador"
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "founders": [
+      "Gabriela Daboub"
+    ],
+    "programs": [
+      "Impact Hub Alpha"
+    ]
+  },
+  "sources": [
+    "https://sansalvador.impacthub.net/gabriela-daboub-jobbi"
+  ],
+  "lastChecked": "2026-10-11"
+}

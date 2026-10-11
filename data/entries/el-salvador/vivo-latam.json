@@ -1,0 +1,45 @@
+{
+  "id": "vivo-latam",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Vivo Latam",
+  "type": "Startup",
+  "tags": [
+    "Proptech"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Real estate listing platform.",
+    "es": "Plataforma de anuncios de bienes raíces."
+  },
+  "website": "",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://startupblink.com/top-startups/el-salvador"
+  ],
+  "lastChecked": "2026-10-11"
+}

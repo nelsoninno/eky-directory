@@ -1,0 +1,48 @@
+{
+  "id": "ese-plus",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "ese Plus",
+  "type": "Startup",
+  "tags": [
+    "Edtech",
+    "AI"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Learning platforms and AI learning design.",
+    "es": "Plataformas de aprendizaje y diseño instruccional con IA."
+  },
+  "website": "https://ese.plus/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "foundingYear": "2014"
+  },
+  "sources": [
+    "https://www.descubre.vc/eseplus"
+  ],
+  "lastChecked": "2026-10-11"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "boris-blanco",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Boris Blanco",
+  "type": "Person",
+  "tags": [],
+  "role": "CEO, Fruto Infinito",
+  "ventures": [
+    "Fruto Infinito"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/borisblancoelsalvador/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/boris-blanco-fruto-infinito"
+  ],
+  "lastChecked": "2026-10-11"
+}

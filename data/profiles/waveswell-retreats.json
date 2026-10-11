@@ -1,0 +1,89 @@
+{
+  "_source": "https://waveswellretreats.com (EKY client site), read 2026-10-11",
+  "override": {
+    "description": {
+      "en": "Seven-day stand up paddle (SUP) surf retreats in El Salvador for paddlers with some experience, plus one-to-one SUP coaching and board rentals, led by coach Joss Alabi.",
+      "es": "Retiros de SUP surf de siete días en El Salvador para personas con algo de experiencia, además de coaching uno a uno de SUP y alquiler de tablas, con la entrenadora Joss Alabi."
+    },
+    "location": {
+      "department": "La Unión"
+    },
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/jossalabi/",
+      "facebook": "https://www.facebook.com/JossAlabi/",
+      "x": "https://twitter.com/JossAlabi"
+    },
+    "extra": {
+      "bookingUrl": "https://waveswellretreats.com/retreat.html#dates"
+    },
+    "lastChecked": "2026-10-11"
+  },
+  "about": {
+    "en": "Waveswell runs six-night SUP surf retreats on the Gulf of Fonseca in small groups of about six people. Every session is filmed and reviewed with the group, and the week includes one-to-one high performance coaching on visualization, breathing and goal setting. Coach Joss Alabi is a former professional paddle surfer who represented El Salvador at World Championships and at the Pan American and Bolivarian Games. Retreats run from November to March; one-to-one coaching runs from April to October.",
+    "es": "Waveswell organiza retiros de SUP surf de seis noches en el Golfo de Fonseca, en grupos pequeños de unas seis personas. Cada sesión se filma y se revisa con el grupo, y la semana incluye coaching individual de alto rendimiento en visualización, respiración y metas. La entrenadora Joss Alabi fue paddle surfer profesional y representó a El Salvador en campeonatos mundiales y en los Juegos Panamericanos y Bolivarianos. Los retiros son de noviembre a marzo; el coaching individual, de abril a octubre."
+  },
+  "services": {
+    "en": [
+      "Seven-day SUP surf retreat",
+      "Video analysis of every session",
+      "One-to-one high performance coaching",
+      "Boat tour of the La Unión islands, coffee farm and waterfalls",
+      "One-to-one SUP coaching (April to October)",
+      "SUP board rentals"
+    ],
+    "es": [
+      "Retiro de SUP surf de siete días",
+      "Análisis en video de cada sesión",
+      "Coaching individual de alto rendimiento",
+      "Tour en lancha por las islas de La Unión, finca de café y cascadas",
+      "Coaching individual de SUP (abril a octubre)",
+      "Alquiler de tablas de SUP"
+    ]
+  },
+  "facts": {
+    "en": [
+      [
+        "Retreat price",
+        "From $3,950 per person, 6 nights and 7 days"
+      ],
+      [
+        "Season",
+        "November to March"
+      ],
+      [
+        "Group size",
+        "About six people"
+      ],
+      [
+        "Included",
+        "Room, airport transfers, all meals, tours, photos and video"
+      ]
+    ],
+    "es": [
+      [
+        "Precio del retiro",
+        "Desde $3,950 por persona, 6 noches y 7 días"
+      ],
+      [
+        "Temporada",
+        "Noviembre a marzo"
+      ],
+      [
+        "Tamaño del grupo",
+        "Unas seis personas"
+      ],
+      [
+        "Incluye",
+        "Habitación, traslados al aeropuerto, todas las comidas, tours, fotos y video"
+      ]
+    ]
+  },
+  "faq": {
+    "en": [],
+    "es": []
+  }
+}

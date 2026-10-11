@@ -1,0 +1,47 @@
+{
+  "id": "cadejo-brewing-company",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "restaurants",
+  "status": "On hold",
+  "ekyClient": true,
+  "name": "Cadejo Brewing Company",
+  "type": "Brewery",
+  "tags": [
+    "Craft beer"
+  ],
+  "alsoIn": [
+    "food-beverage"
+  ],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "EKY client file"
+  ],
+  "lastChecked": ""
+}

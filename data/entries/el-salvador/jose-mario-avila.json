@@ -1,0 +1,41 @@
+{
+  "id": "jose-mario-avila",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "José Mario Ávila",
+  "type": "Person",
+  "tags": [],
+  "role": "CEO, Propi",
+  "ventures": [
+    "Propi"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/jos%C3%A9-mario-%C3%A1vila-palomo-/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/jose-avila-propi"
+  ],
+  "lastChecked": "2026-10-11"
+}

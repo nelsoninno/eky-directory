@@ -1,0 +1,49 @@
+{
+  "id": "recirculapp",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Recirculapp",
+  "type": "Startup",
+  "tags": [
+    "Climate"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "B2B app connecting companies with recyclers.",
+    "es": "App que conecta empresas con recicladores."
+  },
+  "website": "",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "programs": [
+      "SNBX pitch night 2022"
+    ]
+  },
+  "sources": [
+    "https://www.revistaeyn.com/empresasymanagement/el-salvador-realizan-pitch-night-con-cinco-startups-AB10224488"
+  ],
+  "lastChecked": "2026-10-11"
+}

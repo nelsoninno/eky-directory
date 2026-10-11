@@ -1,0 +1,45 @@
+{
+  "id": "luuk",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "luuk",
+  "type": "Startup",
+  "tags": [
+    "E-commerce"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Digital personal shopper platform.",
+    "es": "Plataforma de personal shopper digital."
+  },
+  "website": "https://goluuk.com",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://www.vcbacked.co/directory/cities/el-salvador/san-salvador"
+  ],
+  "lastChecked": "2026-10-11"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "everybodyknowsyou",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "EverybodyKnowsYou",
+  "type": "Startup",
+  "tags": [
+    "Software services"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Bilingual websites in 3 days, built so Google and AI assistants find and describe the business correctly.",
+    "es": "Sitios web bilingües en 3 días, hechos para que Google y los asistentes de IA encuentren y describan bien a cada negocio."
+  },
+  "website": "https://everybodyknowsyou.com",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "foundingYear": "2026",
+    "founders": [
+      "Nelson Inno",
+      "Marcela Lemus Walsh"
+    ]
+  },
+  "sources": [
+    "https://everybodyknowsyou.com"
+  ],
+  "lastChecked": "2026-10-11"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "itero",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Itero",
+  "type": "Startup",
+  "tags": [
+    "Software services"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Growth and innovation consultancy using data and people.",
+    "es": "Consultora de crecimiento e innovación basada en datos y personas."
+  },
+  "website": "",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": "San Salvador"
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "founders": [
+      "Javier Zelada",
+      "Celeste Garcilazo"
+    ],
+    "programs": [
+      "Impact Hub Alpha"
+    ]
+  },
+  "sources": [
+    "https://sansalvador.impacthub.net/sofía-cornejo-startup-itero"
+  ],
+  "lastChecked": "2026-10-11"
+}

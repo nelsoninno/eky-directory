@@ -1,0 +1,44 @@
+{
+  "id": "adrian-gomez",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Adrian Gómez",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Founder & CEO, Mercandú and Elaniin",
+  "ventures": [
+    "Mercandú",
+    "Elaniin"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/adriangomezme",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/adrian-gomez-elaniin"
+  ],
+  "lastChecked": "2026-10-11"
+}

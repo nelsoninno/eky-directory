@@ -1,0 +1,43 @@
+{
+  "id": "acton-academy-el-salvador",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "education",
+  "status": "To review",
+  "ekyClient": true,
+  "name": "Acton Academy El Salvador",
+  "type": "Private school",
+  "tags": [],
+  "alsoIn": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "https://actonacademyelsalvador.com",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://actonacademyelsalvador.com"
+  ],
+  "lastChecked": ""
+}

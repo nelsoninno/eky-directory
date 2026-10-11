@@ -1,0 +1,43 @@
+{
+  "id": "juan-francisco-rivas",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Juan Francisco Rivas",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Co-Founder & CEO, Dloop",
+  "ventures": [
+    "Dloop"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/juan-francisco-rivas-es/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/juan-rivas-dloop"
+  ],
+  "lastChecked": "2026-10-11"
+}

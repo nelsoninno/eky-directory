@@ -1,0 +1,47 @@
+{
+  "id": "teip",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Teip",
+  "type": "Startup",
+  "tags": [
+    "Fintech"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Digital wallet with QR and point-of-sale payments.",
+    "es": "Billetera digital con pagos por QR y punto de venta."
+  },
+  "website": "https://teip.io",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "foundingYear": "2019"
+  },
+  "sources": [
+    "https://www.descubre.vc/teip"
+  ],
+  "lastChecked": "2026-10-11"
+}

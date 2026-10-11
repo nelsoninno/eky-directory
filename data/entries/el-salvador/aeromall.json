@@ -1,0 +1,50 @@
+{
+  "id": "aeromall",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Aeromall",
+  "type": "Startup",
+  "tags": [
+    "Logistics",
+    "E-commerce"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Parcel delivery across El Salvador plus a marketplace.",
+    "es": "Envío de paquetes en todo El Salvador y marketplace."
+  },
+  "website": "",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "programs": [
+      "SNBX pitch night 2022"
+    ]
+  },
+  "sources": [
+    "https://www.revistaeyn.com/empresasymanagement/el-salvador-realizan-pitch-night-con-cinco-startups-AB10224488"
+  ],
+  "lastChecked": "2026-10-11"
+}

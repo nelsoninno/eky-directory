@@ -1,0 +1,13 @@
+{
+  "slug": "el-salvador",
+  "iso": "SV",
+  "name": {"en": "El Salvador", "es": "El Salvador"},
+  "intro": {
+    "en": "A public directory of businesses, schools, startups and people in El Salvador. Every entry has its own page with facts from public sources, a source link and the date it was last checked, so people and AI assistants can find the right answer.",
+    "es": "Un directorio público de negocios, colegios, startups y personas en El Salvador. Cada entrada tiene su propia página con datos de fuentes públicas, el enlace a la fuente y la fecha de la última revisión, para que las personas y los asistentes de IA encuentren la respuesta correcta."
+  },
+  "center": [13.73, -88.93],
+  "zoom": 8,
+  "bounds": {"latMin": 13.1, "latMax": 14.5, "lngMin": -90.2, "lngMax": -87.6},
+  "departments": ["Ahuachapán", "Cabañas", "Chalatenango", "Cuscatlán", "La Libertad", "La Paz", "La Unión", "Morazán", "San Miguel", "San Salvador", "San Vicente", "Santa Ana", "Sonsonate", "Usulután"]
+}

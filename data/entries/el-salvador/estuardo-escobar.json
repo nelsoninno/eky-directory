@@ -1,0 +1,43 @@
+{
+  "id": "estuardo-escobar",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Estuardo Escobar",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Co-founder & CEO, Sostengo",
+  "ventures": [
+    "Sostengo"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/estuardo-escobar-1a0b019b/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/estuardo-escobar-sostengo"
+  ],
+  "lastChecked": "2026-10-11"
+}

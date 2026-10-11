@@ -1,0 +1,46 @@
+{
+  "id": "tacos-hermanos",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "restaurants",
+  "status": "On hold",
+  "ekyClient": true,
+  "name": "Tacos Hermanos",
+  "type": "",
+  "tags": [
+    "Tacos",
+    "Mexican"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "EKY client file"
+  ],
+  "lastChecked": ""
+}

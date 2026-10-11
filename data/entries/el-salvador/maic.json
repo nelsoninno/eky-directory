@@ -1,0 +1,46 @@
+{
+  "id": "maic",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "mAIc",
+  "type": "Startup",
+  "tags": [
+    "AI",
+    "SaaS"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Workflow automation for companies.",
+    "es": "Automatización de flujos de trabajo para empresas."
+  },
+  "website": "",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://www.bloomberglinea.com/2026/03/25/de-el-salvador-a-mexico-las-20-startups-de-centroamerica-que-facturan-hasta-us10-millones/"
+  ],
+  "lastChecked": "2026-10-11"
+}

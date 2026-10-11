@@ -1,0 +1,55 @@
+{
+  "id": "tohkn",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "TOHKN",
+  "type": "Startup",
+  "tags": [
+    "Fintech",
+    "Tokenization"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Platform for investing in tokenized real-world assets.",
+    "es": "Plataforma para invertir en activos reales tokenizados."
+  },
+  "website": "https://www.tohkn.com/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "founders": [
+      "Julio Valdés",
+      "Felipe Nuila",
+      "Alejandro Argumedo"
+    ],
+    "programs": [
+      "Innogen Capital (Delta Fund I)"
+    ]
+  },
+  "sources": [
+    "https://innogencapital.com/es/startup/tohkn/"
+  ],
+  "lastChecked": "2026-10-11"
+}

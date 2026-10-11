@@ -1,0 +1,54 @@
+{
+  "id": "vertex-studio",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Vertex Studio",
+  "type": "Startup",
+  "tags": [
+    "Gaming",
+    "Edtech"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Games and simulations for education and health.",
+    "es": "Videojuegos y simulaciones para educación y salud."
+  },
+  "website": "https://vertexstudio.co/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "https://www.linkedin.com/company/vxstudio/",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": "San Salvador"
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "founders": [
+      "Iliana Benítez",
+      "Alex Rozgo"
+    ],
+    "programs": [
+      "Impact Hub Alpha"
+    ]
+  },
+  "sources": [
+    "https://sansalvador.impacthub.net/alex-rozgo-vertex"
+  ],
+  "lastChecked": "2026-10-11"
+}

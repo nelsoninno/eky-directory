@@ -1,0 +1,43 @@
+{
+  "id": "diego-castro",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Diego Castro",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Co-founder & COO, Vitrinnea",
+  "ventures": [
+    "Vitrinnea"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/diegocastroc",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/diego-castro-vitrinnea"
+  ],
+  "lastChecked": "2026-10-11"
+}

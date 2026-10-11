@@ -1,0 +1,43 @@
+{
+  "id": "iliana-benitez",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Iliana Benítez",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "CEO and founder, Vertex Studio",
+  "ventures": [
+    "Vertex Studio"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/ilianabenitez/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/alex-rozgo-vertex"
+  ],
+  "lastChecked": "2026-10-11"
+}

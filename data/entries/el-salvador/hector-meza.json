@@ -1,0 +1,43 @@
+{
+  "id": "hector-meza",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Héctor Meza",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Co-founder & COO, Kazu Real Estate",
+  "ventures": [
+    "Kazu Real Estate"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/h%C3%A9ctor-meza-suay-0a6641163",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/hector-meza-kazu"
+  ],
+  "lastChecked": "2026-10-11"
+}

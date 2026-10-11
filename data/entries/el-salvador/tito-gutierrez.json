@@ -1,0 +1,43 @@
+{
+  "id": "tito-gutierrez",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Tito Gutiérrez",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Co-founder & CEO, Flexiplan",
+  "ventures": [
+    "Flexiplan"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/titogutierrez/",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/tito-gutierrez-flexiplan"
+  ],
+  "lastChecked": "2026-10-11"
+}

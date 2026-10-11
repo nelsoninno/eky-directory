@@ -1,0 +1,43 @@
+{
+  "id": "villa-del-sol-garden",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "tourism",
+  "status": "To review",
+  "ekyClient": true,
+  "name": "Villa del Sol Garden",
+  "type": "",
+  "tags": [],
+  "alsoIn": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "https://villadelsolsv.com",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://villadelsolsv.com"
+  ],
+  "lastChecked": ""
+}

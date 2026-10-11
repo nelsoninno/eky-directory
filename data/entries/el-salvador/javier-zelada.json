@@ -1,0 +1,43 @@
+{
+  "id": "javier-zelada",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Javier Zelada",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Co-founder, Itero",
+  "ventures": [
+    "Itero"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://sv.linkedin.com/in/javierzelada",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/sofía-cornejo-startup-itero"
+  ],
+  "lastChecked": "2026-10-11"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "juan-david-hernandez",
+  "kind": "person",
+  "country": "el-salvador",
+  "category": "entrepreneurs",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Juan David Hernández",
+  "type": "Person",
+  "tags": [
+    "Founder"
+  ],
+  "role": "Co-founder and Director, DiiMO Technologies",
+  "ventures": [
+    "DiiMO Technologies"
+  ],
+  "openTo": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/juan-david-hernandez-bustamante",
+    "instagram": "",
+    "x": "",
+    "youtube": "",
+    "tiktok": "",
+    "facebook": ""
+  },
+  "geo": null,
+  "location": {
+    "city": "San Salvador",
+    "department": ""
+  },
+  "languages": [],
+  "email": "",
+  "extra": {},
+  "sources": [
+    "https://sansalvador.impacthub.net/juan-david-hernandez-diimo"
+  ],
+  "lastChecked": "2026-10-11"
+}

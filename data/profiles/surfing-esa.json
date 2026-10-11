@@ -1,0 +1,112 @@
+{
+  "_source": "https://surfingesa.com (EKY client site), read 2026-10-11",
+  "override": {
+    "description": {
+      "en": "Surf and SUP school in La Libertad, El Salvador, offering private and group lessons, board rentals and water programs for hotels and companies.",
+      "es": "Escuela de surf y SUP en La Libertad, El Salvador, con clases privadas y grupales, alquiler de tablas y programas acuáticos para hoteles y empresas."
+    },
+    "location": {
+      "department": "La Libertad",
+      "city": "La Libertad"
+    },
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/surfingesa/"
+    },
+    "extra": {},
+    "lastChecked": "2026-10-11"
+  },
+  "about": {
+    "en": "Surfing ESA is led by founder and head coach Josselyn Alabi, an international SUP and surf athlete. Lessons are private or in small groups, with full gear included. Where lessons happen depends on the student's level, goals and the day's conditions. The school also runs monthly training programs and manages water experiences for hotels, resorts and corporate events, and it supports Mar de Sueños, a social project for kids on the Salvadoran coast.",
+    "es": "Surfing ESA es dirigida por su fundadora y entrenadora principal, Josselyn Alabi, atleta internacional de SUP y surf. Las clases son privadas o en grupos pequeños, con todo el equipo incluido. El lugar de cada clase depende del nivel, las metas y las condiciones del día. La escuela también tiene programas mensuales de entrenamiento y maneja experiencias acuáticas para hoteles, resorts y eventos corporativos, y apoya a Mar de Sueños, un proyecto social para niños de la costa salvadoreña."
+  },
+  "services": {
+    "en": [
+      "Private surf and SUP lessons",
+      "Group lessons for surf, SUP surf and SUP",
+      "Monthly training programs",
+      "Surfboard and SUP rentals",
+      "Water programs for hotels and resorts",
+      "Corporate events and team building"
+    ],
+    "es": [
+      "Clases privadas de surf y SUP",
+      "Clases grupales de surf, SUP surf y SUP",
+      "Programas mensuales de entrenamiento",
+      "Alquiler de tablas de surf y SUP",
+      "Programas acuáticos para hoteles y resorts",
+      "Eventos corporativos y team building"
+    ]
+  },
+  "facts": {
+    "en": [
+      [
+        "Private lesson at the La Libertad spot",
+        "From $85, one hour, gear included"
+      ],
+      [
+        "Private lesson with round-trip transport",
+        "From $125"
+      ],
+      [
+        "Payment",
+        "Visa and Mastercard, by secure payment link"
+      ]
+    ],
+    "es": [
+      [
+        "Clase privada en La Libertad",
+        "Desde $85, una hora, equipo incluido"
+      ],
+      [
+        "Clase privada con transporte ida y vuelta",
+        "Desde $125"
+      ],
+      [
+        "Pago",
+        "Visa y Mastercard, por enlace de pago seguro"
+      ]
+    ]
+  },
+  "faq": {
+    "en": [
+      [
+        "How much are surf lessons?",
+        "Private lessons start at $85 at the La Libertad surf spot, or $125 with round-trip transport from anywhere in El Salvador. Group rates are available on request."
+      ],
+      [
+        "Can I rent a surfboard?",
+        "Yes. Soft-top boards for beginners, high-performance boards, and SUP boards with paddles."
+      ],
+      [
+        "What should I bring?",
+        "Swimwear, a T-shirt or rash guard, board shorts, a towel, sunscreen and water."
+      ],
+      [
+        "What happens if the weather is unsafe?",
+        "Sessions are rescheduled rather than cancelled."
+      ]
+    ],
+    "es": [
+      [
+        "¿Cuánto cuestan las clases de surf?",
+        "Las clases privadas empiezan en $85 en el spot de La Libertad, o $125 con transporte ida y vuelta desde cualquier parte de El Salvador. Hay tarifas para grupos."
+      ],
+      [
+        "¿Puedo alquilar una tabla?",
+        "Sí. Tablas soft-top para principiantes, tablas de alto rendimiento y tablas de SUP con remo."
+      ],
+      [
+        "¿Qué debo llevar?",
+        "Traje de baño, camiseta o licra, short de baño, toalla, bloqueador y agua."
+      ],
+      [
+        "¿Qué pasa si el clima no es seguro?",
+        "Las sesiones se reprograman en lugar de cancelarse."
+      ]
+    ]
+  }
+}

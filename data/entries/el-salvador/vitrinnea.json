@@ -1,0 +1,53 @@
+{
+  "id": "vitrinnea",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Vitrinnea",
+  "type": "Startup",
+  "tags": [
+    "E-commerce"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Online second-hand marketplace in Central America.",
+    "es": "Marketplace en línea de artículos de segunda mano en Centroamérica."
+  },
+  "website": "https://vitrinnea.com.sv/",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "https://www.linkedin.com/company/vitrinnea",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": "San Salvador"
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {
+    "founders": [
+      "Diego Castro"
+    ],
+    "programs": [
+      "Impact Hub Alpha",
+      "SNBX pitch night 2022"
+    ]
+  },
+  "sources": [
+    "https://sansalvador.impacthub.net/diego-castro-vitrinnea"
+  ],
+  "lastChecked": "2026-10-11"
+}

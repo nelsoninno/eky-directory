@@ -1,0 +1,45 @@
+{
+  "id": "tours-alegria",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "tourism",
+  "status": "On hold",
+  "ekyClient": true,
+  "name": "Tours Alegría",
+  "type": "Tour operator",
+  "tags": [
+    "Older travelers"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "website": "",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "EKY client file"
+  ],
+  "lastChecked": ""
+}

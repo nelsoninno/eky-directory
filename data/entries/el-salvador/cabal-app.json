@@ -1,0 +1,45 @@
+{
+  "id": "cabal-app",
+  "kind": "organization",
+  "country": "el-salvador",
+  "category": "startups",
+  "status": "To review",
+  "ekyClient": false,
+  "name": "Cabal App",
+  "type": "Startup",
+  "tags": [
+    "Fintech"
+  ],
+  "alsoIn": [],
+  "description": {
+    "en": "Money management app for micro-entrepreneurs.",
+    "es": "App de manejo de dinero para microemprendedores."
+  },
+  "website": "",
+  "links": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": "",
+    "x": ""
+  },
+  "maps": "",
+  "geo": null,
+  "location": {
+    "department": "",
+    "municipality": "",
+    "district": "",
+    "address": "",
+    "city": ""
+  },
+  "phone": "",
+  "email": "",
+  "languages": [],
+  "acceptsBitcoin": null,
+  "extra": {},
+  "sources": [
+    "https://startupblink.com/top-startups/el-salvador"
+  ],
+  "lastChecked": "2026-10-11"
+}
